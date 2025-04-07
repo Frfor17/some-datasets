@@ -5,3 +5,5 @@ train_target.csv
 catboost_info
 submit_baseline_catboost.csv
 sample_submit_naive.csv
+dictionary_card_spending.csv
+train_card_spending.parquet
